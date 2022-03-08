@@ -1,0 +1,23 @@
+{
+  "name": "check-name",
+  "version": "1.0.0",
+  "description": "Is the name Jane?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janetasevski/npm-package-check-name.git"
+  },
+  "keywords": [
+    "checkmyname"
+  ],
+  "author": "Jane Tasevski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janetasevski/npm-package-check-name/issues"
+  },
+  "homepage": "https://github.com/janetasevski/npm-package-check-name#readme"
+}
