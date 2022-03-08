@@ -1,5 +1,3 @@
-function isNameJane(name) {
+export function isNameJane(name) {
   return name === "Jane";
 }
-
-export default isNameJane;
